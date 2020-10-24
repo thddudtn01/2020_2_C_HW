@@ -36,3 +36,10 @@ cd SDL2-2.0.12/
 make
 sudo make install
 cd ..
+
+echo -e "\n\n"
+echo "        -----------------------------------------"
+echo "        | If this is the first time to install, |"
+echo "        |      a reboot may be required.        |"
+echo "        -----------------------------------------"
+echo -e "\n\n"
