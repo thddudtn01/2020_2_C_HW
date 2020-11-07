@@ -19,15 +19,15 @@ if [ -d './bad06' ] ; then
     rm -r bad06/
 fi
 
-#wget https://www.libsdl.org/release/SDL2-2.0.12.tar.gz
+wget https://www.libsdl.org/release/SDL2-2.0.12.tar.gz
 wget https://www.parallelrealities.co.uk/downloads/tutorials/sdl2/shooter15.tar.gz
 wget https://www.parallelrealities.co.uk/downloads/tutorials/sdl2/bad06.tar.gz
 
-#tar xzvf SDL2-2.0.12.tar.gz
+tar xzvf SDL2-2.0.12.tar.gz
 tar xzvf shooter15.tar.gz
 tar xzvf bad06.tar.gz
 
-#rm SDL2-2.0.12.tar.gz
+rm SDL2-2.0.12.tar.gz
 rm shooter15.tar.gz
 rm bad06.tar.gz
 
