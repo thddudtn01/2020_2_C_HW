@@ -19,7 +19,7 @@ int main(){
         //TODO
     }
 
-    printf("Input index of skt1 to attach skt2: ");
+    printf("Input index of stk1 to attach stk2: ");
     scanf("%d", &attachIdx);
 
     // After some stk1 is pushed to stk3, all stk2 is pushed.
