@@ -6,7 +6,7 @@ int main(){
 #if 0
     printf("1\n");
 #endif
-#if test
+#if test1
     printf("2\n");
 #else
     printf("3\n");
@@ -18,3 +18,12 @@ int main(){
     printf("5\n");
 #endif
 }
+
+
+
+doSomething1();
+/* Comment line */
+doSomething2();
+/*
+doSomething3();
+*/
